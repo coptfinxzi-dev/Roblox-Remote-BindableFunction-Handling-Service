@@ -3,7 +3,6 @@
 ```luau
 print("Welcome to my project!")
 ```
-
 > **Ever worried because your Roblox experience gets hacked due to faulty remotes?**
 >
 > Then use my project!
