@@ -1,4 +1,4 @@
 # Roblox-Remote-BindableFunction-Handling-Service
-```lua
+```luau
 print("welcome to my project!")
 ```
